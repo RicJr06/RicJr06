@@ -1,0 +1,15 @@
+//requisito de linguagem
+//biblioteca de entrada e saida de dados
+#include <stdio.h>
+//inicio do programa
+//int:declaração de numeros inteiros
+main(){
+	int num1, num2, x;
+    //%d: inteiro
+    // quando numerico usar "&"
+    scanf("%d" , &num1);
+    scanf("%d",  &num2);
+    x=num1+num2;
+    //prinf:exibe o conteudo
+    printf("valor de x: %d",x);
+}
