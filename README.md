@@ -1,4 +1,4 @@
-## Olá, eu sou o Ricardo Gallozzi
+## Olá, meu nome é Ricardo Gallozzi
 
 - 🔭 Hoje trabalho como recepcionista
 - 📚 Estudando Análise e desenvolvimento de sistemas
