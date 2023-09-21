@@ -1,7 +1,7 @@
 ## Olá, meu nome é Ricardo Gallozzi
 
 - 🔭 Hoje trabalho como recepcionista
-- 📚 Estudando Análise e desenvolvimento de sistemas
+- 📚 Estudando UI/UX Design
 
 <div align="center">
   <a href="https://github.com/RicJr06">
